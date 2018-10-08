@@ -1,4 +1,4 @@
-age,job,marital
-56,housemaid,married
-57,services,married
-37,services,married
+age,job,marital,education,default,housing,loan,contact,month
+56,housemaid,married,basic.4y,no,no,no,telephone,may,mon
+57,services,married,high.school,unknown,no,no,telephone,may,mon
+37,services,married,high.school,no,yes,no,telephone,may,mon
